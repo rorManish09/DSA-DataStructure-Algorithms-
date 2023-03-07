@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// take the values in different variblae for the arrray 
 int main()
 {
     int n, m, i, j;
